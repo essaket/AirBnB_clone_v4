@@ -157,7 +157,9 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)<br>
+Hicham Essaket - [Github](https://github.com/essaket) / [Twitter](https://x.com/hichamessaket)  <br>
+Az-eddine Nader - [Github](https://github.com/4zeddine) [Twitter](https://twitter.com/4zeddine)
 
 Second part of Airbnb: Joann Vuong
 ## License
